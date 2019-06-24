@@ -39,4 +39,8 @@ class Song
     hash
   end
 
+  def self.genres
+    @@genres.each do |genre|
+      delete if 
+
 end
