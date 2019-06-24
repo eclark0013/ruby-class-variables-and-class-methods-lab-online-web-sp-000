@@ -6,7 +6,7 @@ for i in (0...array.length)
     end
   end
 end
-puts array
+array
 
 #  ["a","b", "c", "a"].each do |letter|
 #    puts ["a","b", "c", "a"].index(letter)
