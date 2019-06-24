@@ -5,8 +5,8 @@ for i in (0...array.length)
       array.delete_at(i)
     end
   end
-  puts array
 end
+puts array
 
 #  ["a","b", "c", "a"].each do |letter|
 #    puts ["a","b", "c", "a"].index(letter)
