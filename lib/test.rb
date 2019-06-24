@@ -1,5 +1,5 @@
 array=["a","b", "c", "a"]
-for i in (0...array.length-1)
+for i in (0...array.length)
   puts array[i]
 end
 
