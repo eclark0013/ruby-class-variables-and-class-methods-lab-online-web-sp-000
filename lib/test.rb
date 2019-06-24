@@ -1,3 +1,3 @@
 ["a","b", "c"].each do |letter|
-  puts letter
+  puts letter.index
 end
