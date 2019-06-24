@@ -1,3 +1,3 @@
-["a","b", "c"].each do |letter|
-  puts self.index(letter)
+["a","b", "c", "a"].each do |letter|
+  puts ["a","b", "c", "a"].index(letter)
 end
