@@ -1,5 +1,6 @@
 array=["a","b", "c", "a"]
 for i in (0...array.length)
+  for i in if array
   puts array[i]
 end
 
