@@ -1,4 +1,4 @@
-array=["a","b", "c", "a"]
+array=["a","b", "c", "a","d","b"]
 for i in (0...array.length)
   for j in (0...i)
     if array[j]==array[i]
